@@ -1,1 +1,1 @@
-["occupation", "relationship", "race", "region", "sex", "workclass", "relationship"]
+["occupation", "race", "region", "sex", "workclass", "relationship", "marital_status"]
