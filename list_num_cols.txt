@@ -1,1 +1,1 @@
-["capital_gain", "capital_loss", "hours_per_week"]
+["hours_per_week"]
